@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mikoto2726/mikoto2726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
 ![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikoto2726&theme=github_dark)
