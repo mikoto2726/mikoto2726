@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikoto2726&theme=ocean_dark)
 ![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikoto2726&theme=ocean_dark)   
 ![](https://github-readme-stats.vercel.app/api?username=mikoto2726&count_private=true&show_icons=true&theme=ocean_dark)   
-[![7D](https://github-readme-stats.vercel.app/api/wakatime?username=mikoto2726&range=last_7_days&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+[![7D](https://github-readme-stats.vercel.app/api/wakatime?username=mikoto2726&range=last_7_days&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mikoto2726&theme=tokyo-night)
