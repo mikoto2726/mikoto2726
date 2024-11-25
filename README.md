@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=mikoto2726&count_private=true&show_icons=true&theme=ocean_dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikoto2726&layout=compact&count_private=true&show_icons=true&theme=ocean_dark)   
 [![7D](https://github-readme-stats.vercel.app/api/wakatime?username=mikoto2726&range=last_7_days&theme=dark)](https://github.com/anuraghazra/github-readme-stats&theme=ocean_dark)
-![](https://github-readme-activity-graph.vercel.app/graph?username=mikoto2726&them=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mikoto2726&theme=tokyo-night)
